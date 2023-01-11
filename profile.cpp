@@ -11,7 +11,7 @@ int main()
     cin >> num1;
     cin >> num2;
     res = num2 + num1;
-    cout<<"welcome here. Addition of given number is : " << res;
+    cout<<"welcome here and addition of given number is : " << res;
 
     return 0;
 }
